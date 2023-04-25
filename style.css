@@ -1,0 +1,160 @@
+*{
+	margin:0 0;
+	padding:0 0;
+	font-family :aerial,sans-serif;
+     }
+.float_handle{
+	clear:both;
+	float:none;
+      }
+  a{
+	color:#ff6b81;
+      }
+
+.container{
+	width:80%;
+	margin:0 auto;
+	padding:1%;	
+}
+.image_work{
+	width:100%;
+}
+.logo{
+	width:20%;
+	float:left;
+      }
+.align{
+	text-align:right;
+	line-height:100px;	
+	font-size:1.5rem;
+}
+  
+ .align ul{
+	 list-style-type:none;
+ }
+  .align li{
+	 display:inline;
+	 padding:1%;
+ }
+ 
+ .food_search{
+	 background-image:url(images/bg.jpg);
+	 padding:8% 0;
+	 background-size:cover;
+	 background-repeat:no-repeat;
+	  background-position:center;
+	  text-align:center;
+ }
+  .food_search input[type="search"]{
+	  width:50%;
+	  padding:1%;
+	  font-size:1rem;
+	  border:none;
+	  border-radius:7px;
+	  
+  }
+.btn{
+	padding:1%;
+	border:none;
+	font-size:1rem;
+	cursor:pointer;
+	background-color:pink;
+	border-radius:7px;
+}
+.btn:hover{
+	background-color:yellow;
+}
+.h2{
+	font-size:2px;
+}
+.food_category{
+	padding:2% 0;
+}
+.box{
+	float:left;
+	width:29%;
+	margin:1%;
+	position:relative;
+}
+  .float_text{
+	position:absolute;
+	bottom:50px;
+	left:30%;
+	color:white;
+	
+     }
+.food_menu{
+	background-color:#ececec;
+}
+.food_menu1{
+	float:left;
+	width:40%;
+	margin:2%;
+	padding:1.5%;
+	background-color:white;
+}
+.image{
+	width:20%;
+	margin:0.5%;
+	padding:1%;
+	float:left;
+	border-radius:15px;
+}
+.menu_price{
+	font-size:20px;
+	margin:2%;
+}
+.menu_detail{
+	margin-left:20%;
+    width:80%;
+    justify-content:center;
+   }
+.menu_desc{
+color:#747d8c;
+font-size:2 rem;
+}
+.field_media {
+	text-align:center;
+}
+.field_media ul li{
+	list-style-type:none;
+	display:inline;
+	padding:1%;
+  }
+  .last_text{
+	  text-align:center;
+	  padding:1% 0;
+  }
+  .order{
+	  margin:2%;
+  }
+  .order1{
+	  width:50%;
+	  justify-content:center;
+	  margin:0 auto;
+  }
+  .text-dec{
+	  color:white;
+	  font-size:2rem;
+	  margin:3%;
+  }
+  .btn1{
+	padding:1%;
+	border:none;
+	font-size:1rem;
+	cursor:pointer;
+	border-radius:7px;  
+	margin-bottom:4%;
+  }
+   .food_search input[type="text"]{
+	  width:90%;
+	  padding:1.5%;
+	  font-size:1rem;
+	  border:none;
+	  border-radius:10px;
+	  
+  }
+  .order-label{
+	  margin-bottom: 1%; 
+    font-weight: bold;
+  }
